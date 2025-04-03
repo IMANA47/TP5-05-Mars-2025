@@ -1,0 +1,23 @@
+# Ignorer les fichiers de compilation Java
+*.class
+
+# Ignorer les répertoires de compilation (comme bin ou target)
+/bin/
+/target/
+
+# Ignorer les fichiers temporaires de l'IDE
+.idea/
+/.vscode/
+/*.iml
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers d'archive générés (comme les jar, zip)
+*.jar
+*.zip
+
+# Ignorer les fichiers de configuration de build
+*.classpath
+*.project
+
