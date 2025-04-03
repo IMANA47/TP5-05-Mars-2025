@@ -1,9 +1,10 @@
-# Ignorer les fichiers de compilation Java
+# Ignorer les fichiers .class
 *.class
 
-# Ignorer les répertoires de compilation (comme bin ou target)
-/bin/
-/target/
+# Ignorer les répertoires bin/ et target/
+bin/
+target/
+
 
 # Ignorer les fichiers temporaires de l'IDE
 .idea/
